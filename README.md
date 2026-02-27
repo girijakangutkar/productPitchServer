@@ -33,7 +33,7 @@ It powers product search, category filtering, and AI chat responses.
 ##  Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/productpitch-backend.git
+git clone https://github.com/girijakangutkar/productPitchServer.git
 
 # Navigate into the project
 cd productpitch-backend
